@@ -1,0 +1,4 @@
+# replace vendor_id and product_id with your output from lsusb
+eved:input:*<vendor_id><product_id>*
+    KEYBOARD_KEY_70035=102nd
+    KEYBOARD_KEY_70064=grave
